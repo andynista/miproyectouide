@@ -65,7 +65,7 @@ while jugar: # Inicia el bucle principal. El código dentro se repite mientras '
         elif ganador == "computadora": # Si el resultado fue "computadora"...
             print("😞 La computadora ganó la ronda.") # ...anuncia la victoria de la computadora.
         else: # Si el resultado fue "empate"...
-            print("🤝 ¡Es un empate!") # ...anuncia el empate.
+            print("🤝 ¡ES UN EMPATE!") # ...anuncia el empate.
 
     else:
         # Manejo de entradas que no son 1, 2, 3 o 4
